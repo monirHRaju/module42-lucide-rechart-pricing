@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <MyNav></MyNav>
-    <DaisyNav></DaisyNav>
+
     </>
   )
 }
